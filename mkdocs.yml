@@ -1,8 +1,8 @@
 site_name: Template de Entrega
-site_author: Sandmann, H.
-site_url: https://hsandmann.github.io/documentation.template
-repo_url: https://github.com/hsandmann/documentation.template
-repo_name: github/documentation.template
+site_author: Alexandre Martinelli
+site_url: https://alexandremartinelli11.github.io/machine-lerning
+repo_url: https://github.com/alexandremartinelli11/machine-lerning
+repo_name: github/machine-lerning
 
 theme:
   name: material
