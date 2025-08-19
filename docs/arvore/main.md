@@ -16,7 +16,7 @@
 
 ### Colunas
     1 - fixed acidity (acidez fixa): Essa coluna é responsavel por medir os acidos de evaporação    lenta presentes no vinho, o tipo de dado dessa coluna é float/decimal. 
-    2 - volatile acidity (acidez volatil):  
+    2 - volatile acidity (acidez volatil): E
 
 Use o [Mermaid](https://mermaid.js.org/intro/){:target='_blank'} para criar os diagramas de documentação.
 
