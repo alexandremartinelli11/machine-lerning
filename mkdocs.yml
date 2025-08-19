@@ -1,8 +1,8 @@
 site_name: Template de Entrega
 site_author: Alexandre Martinelli
-site_url: https://alexandremartinelli11.github.io/machine-lerning
-repo_url: https://github.com/alexandremartinelli11/machine-lerning
-repo_name: github/machine-lerning
+site_url: https://alexandremartinelli11.github.io/machine-learning
+repo_url: https://github.com/alexandremartinelli11/machine-learning
+repo_name: github/machine-learning
 
 theme:
   name: material
@@ -134,6 +134,7 @@ extra_javascript:
 nav:
   - Home: index.md
   - Roteiros:
+    - Árvore de Decisão: ./arvore/main.md
     - Roteiro 1: ./roteiro1/main.md
     - Roteiro 2: ./roteiro2/main.md
     - Roteiro 3: ./roteiro3/main.md

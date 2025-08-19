@@ -6,34 +6,17 @@
     2025.1
 
 
-## Grupo/Kit X
+## Entrega Individual 
 
 1. [Alexandre Martinelli](https://github.com/alexandremartinelli11){:target='_blank'}
-1. [André Henrique Pacheco Alves](https://github.com/andre-alves77){:target='_blank'}
-1. [Gabriel Cardoso Campos Rodrigues](https://github.com/gabrielccr-555){:target='_blank'}
-1. [Hugo Coscelli Ferraz](https://github.com/Z-Hugo-Ferraz){:target='_blank'}
-1. [Julia Akemi Mullis](https://github.com/akemi-m){:target='_blank'}
-1. [Theo Camuri Gaspar](https://github.com/tigasparzin){:target='_blank'}
-1. Grupo Masked Penguins
-    - João da Silva
-    - Pedro de Souza
 
 
+## Introdução
+1. Exploração de dados: Ao selecionar uma base no [kagle](https://www.kaggle.com/datasets/uciml/red-wine-quality-cortez-et-al-2009){:target='_blank'} referentes a vinhos da marca Vinho Verde, contendo medições sobre a acidez fixa, acidez volatil, acidez citrica, açucar residual, cloretos, dioxido de enxofre livre e total, densidade, ph, sulfatos e qualidade (totalizando 12 colunas). 
 
-!!! tip "Instruções"
-
-    Vocês devem utilizar este template como um bloco de notas para registrar o que foi feito e o que falta fazer. Vocês devem adicionar as informações necessárias.
-    O template deve ser editado e atualizado a cada entrega, registrando assim a data de entrega e o que foi feito até o momento via Git.
-
-## Entregas
-
-- [x] Roteiro 1 - Data 23/02/2025
-- [ ] Roteiro 2
-- [ ] Roteiro 3
-- [ ] Roteiro 4
-- [ ] Projeto
-
-## Diagramas
+### Colunas
+    1 - fixed acidity (acidez fixa): Essa coluna é responsavel por medir os acidos de evaporação    lenta presentes no vinho, o tipo de dado dessa coluna é float/decimal. 
+    2 - volatile acidity (acidez volatil):  
 
 Use o [Mermaid](https://mermaid.js.org/intro/){:target='_blank'} para criar os diagramas de documentação.
 
