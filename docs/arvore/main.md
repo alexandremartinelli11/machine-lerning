@@ -12,11 +12,17 @@
 
 
 ## Introdução
-1. Exploração de dados: Ao selecionar uma base no [kagle](https://www.kaggle.com/datasets/uciml/red-wine-quality-cortez-et-al-2009){:target='_blank'} referentes a vinhos da marca Vinho Verde, contendo medições sobre a acidez fixa, acidez volatil, acidez citrica, açucar residual, cloretos, dioxido de enxofre livre e total, densidade, ph, sulfatos e qualidade (totalizando 12 colunas). 
+1. Exploração de dados: Ao selecionar uma base no [kaggle](https://www.kaggle.com/datasets/pablomgomez21/drugs-a-b-c-x-y-for-decision-trees){:target='_blank'} referentes a cinco tipos de remédio, remédio A, B, C, X e Y, tem como objetivo prever qual remédio o paciente teria uma resposta melhor. As colunas presentes nesse dataset são Idade, Sexo, Pressão Arterial, nivel de colesterol, nivel de sódio para potássio no sangue e remédio que seria nossa target. 
 
 ### Colunas
-    1 - fixed acidity (acidez fixa): Essa coluna é responsavel por medir os acidos de evaporação    lenta presentes no vinho, o tipo de dado dessa coluna é float/decimal. 
-    2 - volatile acidity (acidez volatil): E
+1° Age (Idade): Essa coluna temos a idade dos pacientes, com a idade minima presente de 15, idade média de 44,3 e maxima de 74 sendo do tipo Integer. 
+2° Sex (Sexo): Essa coluna tem o sexo de cada paciente, divididos em 52% Masculino e 48% feminino, dados do tipo String.
+3° Blood Pressure (Pressão Arterial): Essa coluna tem os niveis de pressão arterial de cada paciente sendo dividida em 39% HIGH, 29% NORMAL e 32% LOW, dados do tipo String.
+4° Cholesterol (nivel de colesterol): Essa coluna tem os niveis de colesterol de cada paciente sendo divididos em 52% HIGH e 49% NORMAl, dados do tipo String.
+5° Na_to_K (sódio para potássio): Essa coluna tem os a razão de sódio para potássio no sangue de um paciente, com a minima de 6,27, media de 16,1 e maxima de 38,2, dados do tipo Float/Decimal.
+6° Drug (remédio): Essa coluna tem os remédio de melhor resposta para o paciente, dados do tipo String.
+
+## Pré-processamento
 
 Use o [Mermaid](https://mermaid.js.org/intro/){:target='_blank'} para criar os diagramas de documentação.
 
