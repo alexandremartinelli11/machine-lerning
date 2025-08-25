@@ -101,3 +101,5 @@ Lorem ipsum dolor sit amet
 ## Referências
 
 [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/reference/){:target='_blank'}
+
+[hsandmann](https://github.com/hsandmann){:target='_blank'}

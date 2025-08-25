@@ -29,8 +29,8 @@
 
 
 ## Pré-processamento
-
-
+Primeiro foi feita uma verificação em todas as colunas procurando valores faltantes e substituindo eles pela mediana em valores numéricos ou pela moda em variáveis categóricas. Como vimos na descrição das colunas temos três que possuem dados categóricos do tipo String, sendo elas Sex(Sexo), Blood Pressure(Pressão Arterial) e Cholesterol(nivel de colesterol), para conseguirmos utilizar essas informações é necessario convertelas em numeros, oque foi feito utilizando a biblioteca scikit-learn que possui a função LabelEncoder(), em seguida aplicamos dois tipos de escalonamento às colunas numéricas Age e Na_to_K: padronização (z-score) e normalização min-max.
+ 
 === "Result"
 
     ```python exec="on" html="0"
